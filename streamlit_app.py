@@ -11,7 +11,7 @@ def main():
     st.markdown('[Breast Surgery MCQs](https://simedmcq-nywtfsvzjpgvwnowpzvvgf.streamlit.app/)')
 
     # Link to the deployed saq.py app
-    st.markdown('[Surgery Tutor Bot 🔪](https://share.streamlit.io/yourusername/yourrepository/main/saq.py)')
+    st.markdown('[Surgery Tutor Bot 🔪](https://simedsur-xns4jnatfnemuao9pjiaux.streamlit.app/)')
 
 # Check if the script is being run directly
 if __name__ == '__main__':
